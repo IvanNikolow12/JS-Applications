@@ -1,0 +1,17 @@
+{
+    "name": "game-play",
+    "version": "1.0.0",
+    "description": "GamePlay Single Page Application",
+    "main": "index.html",
+    "scripts": {
+        "test": "mocha tests",
+        "start": "lite-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lit-html": "2.6.1",
+        "lite-server": "2.6.1"
+    }
+    
+}
