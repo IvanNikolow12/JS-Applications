@@ -1,0 +1,16 @@
+{
+  "name": "music-app",
+  "version": "1.0.0",
+  "description": "Music App Single Page Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "handlebars": "^4.7.7"
+    
+  }
+}
